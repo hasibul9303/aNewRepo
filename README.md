@@ -1,12 +1,17 @@
-# A Repo for tutorial video
-##A repo made for the purpose of this tutorial XD
-It's really easy with markdown to make custom files like this we can make something **bold** something *italic* and
+# This is a h1 tag
+## This is a h2 tag
+### This is a h3 tag
+#### This is a h4 tag
+##### This is a h5 tag
+###### This is a h6 tag
+
+
  - Add 
  - Lists
- - This
+
    - Sub
    - Entries
    - Too
    
-Cool ain't it
-Testing
+
+
